@@ -11,3 +11,8 @@ to
 ```
 iPhoneOS7.1.sdk/usr/include/crt_externs.h
 ```
+
+## 0 Jailbreak you iDevice
+
+
+## 1 Install fake-gcc
