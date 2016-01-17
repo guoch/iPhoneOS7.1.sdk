@@ -1,4 +1,7 @@
 # Compiling C/C++ project on jailbroked iOS devices (e.g. iPhone, iPad or iPod)
+
+Origin: [Compiling C/C++ project on jailbroked iOS devices (e.g. iPhone, iPad or iPod) · Neo's Blog](http://localhost:1313/post/compile-on-idevices/)
+
 -----------------
 Recently, I am trying to build a portable web server on my old iPhone4 (iOS v7.1.2), and need a Vim v7.4 (with Python, Ruby and Lua support) for my remote editing/coding, but the BigBoss (only v7.1) and Radare (only v7.3-1) can't help. So I have to work it out by myself, let's see how.
 
